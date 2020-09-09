@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.de12f44a.chunk.css",
+    "main.js": "/portfolio/static/js/main.d6d01833.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d6d01833.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.79e9ed1d.chunk.js": "/portfolio/static/js/2.79e9ed1d.chunk.js",
+    "static/js/2.79e9ed1d.chunk.js.map": "/portfolio/static/js/2.79e9ed1d.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.8568d51b9b4237b6e9260cff83b9b66c.js": "/portfolio/precache-manifest.8568d51b9b4237b6e9260cff83b9b66c.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.de12f44a.chunk.css.map": "/portfolio/static/css/main.de12f44a.chunk.css.map",
+    "static/js/2.79e9ed1d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.79e9ed1d.chunk.js.LICENSE.txt",
+    "static/media/SWJeopardy.gif": "/portfolio/static/media/SWJeopardy.8b37b3d3.gif",
+    "static/media/Landscape.css": "/portfolio/static/media/glenwood2.a2cff5e3.jpg",
+    "static/media/history-quiz.gif": "/portfolio/static/media/history-quiz.9ca3fd7c.gif",
+    "static/media/mern-shopping-list.gif": "/portfolio/static/media/mern-shopping-list.fc39f5c4.gif",
+    "static/media/puppies.gif": "/portfolio/static/media/puppies.a13ac5c0.gif",
+    "static/media/rps.gif": "/portfolio/static/media/rps.b62414e8.gif",
+    "static/media/to-do-app.gif": "/portfolio/static/media/to-do-app.ef601eeb.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.79e9ed1d.chunk.js",
+    "static/css/main.de12f44a.chunk.css",
+    "static/js/main.d6d01833.chunk.js"
+  ]
+}
