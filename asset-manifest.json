@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae8dfdc3.chunk.css",
-    "main.js": "/static/js/main.536ff07d.chunk.js",
-    "main.js.map": "/static/js/main.536ff07d.chunk.js.map",
+    "main.css": "/static/css/main.e3467bf2.chunk.css",
+    "main.js": "/static/js/main.a456acc0.chunk.js",
+    "main.js.map": "/static/js/main.a456acc0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.9860d4e8.chunk.js": "/static/js/2.9860d4e8.chunk.js",
-    "static/js/2.9860d4e8.chunk.js.map": "/static/js/2.9860d4e8.chunk.js.map",
+    "static/js/2.6673bdd3.chunk.js": "/static/js/2.6673bdd3.chunk.js",
+    "static/js/2.6673bdd3.chunk.js.map": "/static/js/2.6673bdd3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4700f2b12c4407319310c8d8412dddba.js": "/precache-manifest.4700f2b12c4407319310c8d8412dddba.js",
+    "precache-manifest.6bb2f801fccffd1ad3c70771e0eada74.js": "/precache-manifest.6bb2f801fccffd1ad3c70771e0eada74.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ae8dfdc3.chunk.css.map": "/static/css/main.ae8dfdc3.chunk.css.map",
-    "static/js/2.9860d4e8.chunk.js.LICENSE.txt": "/static/js/2.9860d4e8.chunk.js.LICENSE.txt",
+    "static/css/main.e3467bf2.chunk.css.map": "/static/css/main.e3467bf2.chunk.css.map",
+    "static/js/2.6673bdd3.chunk.js.LICENSE.txt": "/static/js/2.6673bdd3.chunk.js.LICENSE.txt",
     "static/media/SWJeopardy.gif": "/static/media/SWJeopardy.8b37b3d3.gif",
     "static/media/Header.css": "/static/media/glenwood4.bfaf2620.jpg",
     "static/media/history-quiz.gif": "/static/media/history-quiz.9ca3fd7c.gif",
     "static/media/mern-shopping-list.gif": "/static/media/mern-shopping-list.fc39f5c4.gif",
     "static/media/puppies.gif": "/static/media/puppies.a13ac5c0.gif",
+    "static/media/red-october.gif": "/static/media/red-october.bcd09c2c.gif",
     "static/media/rps.gif": "/static/media/rps.b62414e8.gif",
     "static/media/to-do-app.gif": "/static/media/to-do-app.ef601eeb.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.9860d4e8.chunk.js",
-    "static/css/main.ae8dfdc3.chunk.css",
-    "static/js/main.536ff07d.chunk.js"
+    "static/js/2.6673bdd3.chunk.js",
+    "static/css/main.e3467bf2.chunk.css",
+    "static/js/main.a456acc0.chunk.js"
   ]
 }
