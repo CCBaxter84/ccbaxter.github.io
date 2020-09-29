@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38e82cc58b1ddefaa711e161f8034454",
+    "revision": "b2cdf443b6de988d4886c9761d03a3e3",
     "url": "/index.html"
   },
   {
-    "revision": "ae4439942f13554e62ab",
+    "revision": "93adc1e1b8969b607fa5",
     "url": "/static/css/main.e3467bf2.chunk.css"
   },
   {
-    "revision": "2780eac21825c0711489",
-    "url": "/static/js/2.6673bdd3.chunk.js"
+    "revision": "6005e3ab6a4b6f355e18",
+    "url": "/static/js/2.bb80f528.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.6673bdd3.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bb80f528.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae4439942f13554e62ab",
-    "url": "/static/js/main.a456acc0.chunk.js"
+    "revision": "93adc1e1b8969b607fa5",
+    "url": "/static/js/main.d3af2828.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b62414e8cd0aa37dddb55a0ebd9115e9",
     "url": "/static/media/rps.b62414e8.gif"
+  },
+  {
+    "revision": "9187372d249dfdc45c9622d593f2d5fc",
+    "url": "/static/media/star-wars-intro.9187372d.gif"
   },
   {
     "revision": "ef601eeb7a6d6ff20351b5eb094614d8",
