@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.07a5669e.chunk.css",
-    "main.js": "/static/js/main.f6c60466.chunk.js",
-    "main.js.map": "/static/js/main.f6c60466.chunk.js.map",
+    "main.js": "/static/js/main.d7f0d986.chunk.js",
+    "main.js.map": "/static/js/main.d7f0d986.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.d10f842a.chunk.js": "/static/js/2.d10f842a.chunk.js",
-    "static/js/2.d10f842a.chunk.js.map": "/static/js/2.d10f842a.chunk.js.map",
+    "static/js/2.1dd7e48b.chunk.js": "/static/js/2.1dd7e48b.chunk.js",
+    "static/js/2.1dd7e48b.chunk.js.map": "/static/js/2.1dd7e48b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e93ab919b60c8d8e8a92a763a522e7c3.js": "/precache-manifest.e93ab919b60c8d8e8a92a763a522e7c3.js",
+    "precache-manifest.241a34d4488cadb35c0e7337224e0ad1.js": "/precache-manifest.241a34d4488cadb35c0e7337224e0ad1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.07a5669e.chunk.css.map": "/static/css/main.07a5669e.chunk.css.map",
-    "static/js/2.d10f842a.chunk.js.LICENSE.txt": "/static/js/2.d10f842a.chunk.js.LICENSE.txt",
+    "static/js/2.1dd7e48b.chunk.js.LICENSE.txt": "/static/js/2.1dd7e48b.chunk.js.LICENSE.txt",
     "static/media/MW.gif": "/static/media/MW.adec840d.gif",
     "static/media/SWJeopardy.gif": "/static/media/SWJeopardy.8b37b3d3.gif",
     "static/media/Header.css": "/static/media/glenwood4.bfaf2620.jpg",
@@ -21,12 +21,14 @@
     "static/media/red-october.gif": "/static/media/red-october.bcd09c2c.gif",
     "static/media/rps.gif": "/static/media/rps.b62414e8.gif",
     "static/media/star-wars-intro.gif": "/static/media/star-wars-intro.9187372d.gif",
-    "static/media/to-do-app.gif": "/static/media/to-do-app.ef601eeb.gif"
+    "static/media/sw-lib.gif": "/static/media/sw-lib.7a81e5d4.gif",
+    "static/media/to-do-app.gif": "/static/media/to-do-app.ef601eeb.gif",
+    "static/media/weather.gif": "/static/media/weather.34fc52a5.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.d10f842a.chunk.js",
+    "static/js/2.1dd7e48b.chunk.js",
     "static/css/main.07a5669e.chunk.css",
-    "static/js/main.f6c60466.chunk.js"
+    "static/js/main.d7f0d986.chunk.js"
   ]
 }
